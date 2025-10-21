@@ -5,6 +5,11 @@
   font-style: normal;
   font-display: swap; /* improves loading performance */
 }
+@font-face {
+  font-family: 'Layaan';
+  src: url('/fonts/LaylaRuqaa\ Regular.ttf') format('ttf'),
+}
+
  @import url('https://fonts.googleapis.com/css?family=Rubik:700&display=swap');
 
         * {
@@ -89,7 +94,7 @@
             font-size: 24px;
             margin-bottom: 30px;
             text-align: center;
-            font-family: 'Jitter';
+            font-family: 'layaan';
 
         }
         .links {
